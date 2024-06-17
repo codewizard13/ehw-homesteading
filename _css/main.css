@@ -1,0 +1,16 @@
+h2 {
+  background: green;
+  padding: 1rem;
+  color: white;
+}
+h2::before {
+  content: '🌱';
+  display: inline-block;
+  padding-right: .4rem;
+}
+h2 a {
+  color: white;
+}
+h2 a:hover {
+  
+}
