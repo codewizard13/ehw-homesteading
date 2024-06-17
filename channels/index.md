@@ -8,7 +8,10 @@ We will generally use the regions defined at [https://www.ducksters.com/geograph
 
 ## Major Regions
 
-![Major US Regions map from VividMaps.com](/_pix/map-us-regions-vivid.jpg)
+<figure>
+  <img src="../_pix/map-us-regions-vivid.jpg" alt="US Regions map from VividMaps.com" style="width:100%">
+  <figcaption>US Regions map from <a href="https://vividmaps.com/regions-united-states/" target="_blank">VividMaps.com</a></figcaption>
+</figure>
 
 
 ### Northeast
@@ -43,14 +46,19 @@ We will generally use the regions defined at [https://www.ducksters.com/geograph
 
 ## Sub-Regions
 
+<figure>
+  <img src="../_pix/map-us-regions-posadas.jpg" alt="US Sub-Regions map from JeremyPosadas.com" style="width:100%">
+  <figcaption>US Sub-Regions map from <a href="https://jeremyposadas.org/regions/" target="_blank">JeremyPosadas.com</a></figcaption>
+</figure>
+
 Here are some other sub-regions that are often referred to:
 
-Mid-Atlantic - Virginia, West Virginia, Pennsylvania, Maryland, Delaware, New Jersey
-Central Plains - Iowa, Missouri, Kansas, Nebraska
-Great Lakes - Minnesota, Wisconsin, Illinois, Indiana, Ohio, Michigan
-New England - Maine, Vermont, New Hampshire, Massachusetts, Rhode Island, Connecticut
-Pacific Northwest - Washington, Oregon, Idaho
-Rocky Mountains - Utah, Colorado, New Mexico, Wyoming, Montana
+- **Mid-Atlantic** - Virginia, West Virginia, Pennsylvania, Maryland, Delaware, New Jersey
+- **Central Plains**: - Iowa, Missouri, Kansas, Nebraska
+- **Great Lakes**: - Minnesota, Wisconsin, Illinois, Indiana, Ohio, Michigan
+- **New England**: - Maine, Vermont, New Hampshire, Massachusetts, Rhode Island, Connecticut
+- **Pacific Northwest**: - Washington, Oregon, Idaho
+- **Rocky Mountains**: - Utah, Colorado, New Mexico, Wyoming, Montana
 
 
 ---
