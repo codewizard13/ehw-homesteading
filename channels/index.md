@@ -14,6 +14,7 @@ We will generally use the regions defined at [https://www.ducksters.com/geograph
 </figure>
 
 
+
 ### Northeast
 
 - **States included:** Maine, Massachusetts, Rhode Island, Connecticut, New Hampshire, Vermont, New York, Pennsylvania, New Jersey, Delaware, Maryland
@@ -50,6 +51,7 @@ We will generally use the regions defined at [https://www.ducksters.com/geograph
   <img src="../_pix/map-us-regions-posadas.jpg" alt="US Sub-Regions map from JeremyPosadas.com" style="width:100%">
   <figcaption>US Sub-Regions map from <a href="https://jeremyposadas.org/regions/" target="_blank">JeremyPosadas.com</a></figcaption>
 </figure>
+
 
 Here are some other sub-regions that are often referred to:
 
