@@ -2,10 +2,10 @@
 #
 # This Filename:  .gitignore
 # Date Created:   01/20/23
-# Date Updated:   05/11/24
+# Date Updated:   06/18/24
 # Programmer:     Eric L. Hepperle
 # 
-# File Version:    1.00.03
+# File Version:    1.00.04
 # 
 # File Purpose:
 #   This is the master .gitignore file I created for my own use. You are free to copy and use this file at your own risk.
@@ -133,7 +133,11 @@ junk/
 _bkp/
 
 # LibreOffice lock files
-.~lock
+# This one is tricky and not intuitive in Git Bash. I finally found the
+#  correct Windows version of the command to ignore LibreOffice 
+#  .lock files here: https://stackoverflow.com/questions/19210770/how-can-i-tell-git-to-ignore-libreoffice-lock-files/48970642#48970642
+#######################################################
+*.~lock*
 
 
 ### ------------------------------------------------ ####
