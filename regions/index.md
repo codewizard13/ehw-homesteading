@@ -1,8 +1,8 @@
-# Index for: CHANNELS 🎬
+# Index for: REGIONS 🗺️
 
 [🏚️](../README.md)
 
-Here you will find links to all the other documents in this folder. This category includes YouTube, Rumble, and other streaming channels organized by region.
+Here you will find links to all the other documents in this folder. This category lists regions of the United States (USA) and subregions.
 
 We will generally use the regions defined at [https://www.ducksters.com/geography/us_states/us_geographical_regions.php](https://www.ducksters.com/geography/us_states/us_geographical_regions.php):
 
